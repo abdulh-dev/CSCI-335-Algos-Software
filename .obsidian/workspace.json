@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Note.md",
+                "file": "Aug-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Note.md",
+                "file": "Aug-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Note.md",
+                "file": "Aug-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Note.md"
+                "file": "Aug-30.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "b8fd58f3d2b6d74b",
   "lastOpenFiles": [
-    "First Note.md",
-    "Second Note.md",
-    "Welcome.md"
+    "Syllabus.md",
+    "Aug-30.md",
+    "Second Note.md"
   ]
 }
