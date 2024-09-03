@@ -21,7 +21,7 @@ First Lecture
 <mark style="background: #ADCCFFA6;">A map can be made using trees, hashmaps and arrays. But the chosen container decided the effiecieny and utility of every function used by that map.</mark> 
 
 
-#### Move Semantics (Slide 1)
+#### Move Semantics (Slide 1/8)
 - Semantics describes the processes a computer follows when
 executing a program in a specific language.
 - Move semantics in C++ were greatly improved in C++11 by the introduction of rvalue references, move constructors, and move assignment operators. This made it easier to transfer allocated memory to another object when needed, rather than copying and deleting.

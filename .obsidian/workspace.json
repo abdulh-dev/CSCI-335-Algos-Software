@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aug-30.md",
+                "file": "Sept-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aug-30.md",
+                "file": "Sept-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aug-30.md",
+                "file": "Sept-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aug-30.md"
+                "file": "Sept-3.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "b8fd58f3d2b6d74b",
   "lastOpenFiles": [
-    "Syllabus.md",
     "Aug-30.md",
-    "Second Note.md"
+    "Sept-3.md",
+    "Syllabus.md"
   ]
 }
