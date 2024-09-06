@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d239f4978556e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept-6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sept-3.md",
+                "file": "Sept-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sept-3.md",
+                "file": "Sept-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sept-3.md"
+                "file": "Sept-6.md"
               }
             }
           }
@@ -159,10 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8fd58f3d2b6d74b",
+  "active": "7d239f4978556e04",
   "lastOpenFiles": [
-    "Aug-30.md",
+    "Pasted image 20240906124603.png",
+    "Pasted image 20240906115652.png",
     "Sept-3.md",
+    "Sept-6.md",
+    "Aug-30.md",
     "Syllabus.md"
   ]
 }
