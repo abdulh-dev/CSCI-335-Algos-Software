@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6a18d66007f69b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18cc43d01034e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sept-6.md",
+                "file": "Sept-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sept-6.md",
+                "file": "Sept-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sept-6.md"
+                "file": "Sept-13.md"
               }
             }
           }
@@ -171,12 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d239f4978556e04",
+  "active": "d18cc43d01034e09",
   "lastOpenFiles": [
     "Pasted image 20240906124603.png",
+    "Sept-13.md",
+    "Sept-10.md",
+    "Sept-6.md",
     "Pasted image 20240906115652.png",
     "Sept-3.md",
-    "Sept-6.md",
     "Aug-30.md",
     "Syllabus.md"
   ]
